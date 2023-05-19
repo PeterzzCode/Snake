@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1645746051 source:c:\users\peterzz\desktop\miprimerjuego\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1645746051 source:c:\users\peterzz\desktop\ \programacion\snake\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
